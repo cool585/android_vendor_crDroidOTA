@@ -1,0 +1,26 @@
+{
+	"response": [
+		{
+			"maintainer": "Dhinesh (cool585)",
+			"oem": "Google",
+			"device": "Google Pixel3",
+			"filename": "crDroidAndroid-13.0-20230111-blueline-v9.1.zip",
+			"download": "https://sourceforge.net/projects/cool585/files/blueline/crdroid/9.x/crDroidAndroid-13.0-20230111-blueline-v9.1.zip/download",
+			"timestamp": 1673410847,
+			"md5": "aee7be834aef51af3df62f6e8af1a83d",
+			"sha256": "8086b343f0582ef7abd2c7dc58236716666d65357a35cabc3dc0e839e965e718",
+			"size": 1652094104,
+			"version": "9.1",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/4539853/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/cool585/files/blueline/crdroid/9.x/recovery/",
+			"paypal": "https://paypal.me/cool585",
+			"telegram": "https://t.me/dxt_official",
+			"dt": "https://github.com/cool585/android_device_google_crosshatch",
+			"kernel": "https://github.com/cool585/android_kernel_google_bluecross"
+		}
+	]
+}
