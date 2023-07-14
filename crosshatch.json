@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Dhinesh (cool585)",
+                        "oem": "Google",
+                        "device": "Pixel 3XL",
+                        "filename": "crDroidAndroid-13.0-20230714-crosshatch-v9.7.zip",
+                        "download": "https://github.com/cool585/android_vendor_crDroidOTA/releases/download/2/crDroidAndroid-13.0-20230714-crosshatch-v9.7.zip",
+                        "timestamp": 1689347202,
+                        "md5": "56b715fc403787976a8affcc21f6d065",
+                        "sha256": "fcf185e66171cb6d2603d2398e15da876e1657bc41a2765cf00bfafc0053a399",
+                        "size": 1597830774,
+                        "version": "9.7",
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/4539853",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://sourceforge.net/projects/cool585/files/blueline/crosshatch/9.x/recovery",
+                        "paypal": "https://paypal.me/cool585",
+                        "telegram": "https://t.me/dxt_official",
+                        "dt": "https://github.com/cool585/android_device_google_crosshatch",
+                        "common-dt": "",
+                        "kernel": "https://github.com/cool585/android_kernel_google_bluecross"
+                }
+        ]
+}
