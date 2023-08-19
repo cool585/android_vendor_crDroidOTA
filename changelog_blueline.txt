@@ -1,5 +1,5 @@
-*updated trees from los
-*fixed some framedrop issue
-*cybertron v2 kernel see changes on git
-*basically improved battery life and system stability
-*updated gapps from august release
+****Quickfix-Update***
+
+*updated to latest crdroid source
+*fix some broken apps (thnx to exactxmpl)
+
