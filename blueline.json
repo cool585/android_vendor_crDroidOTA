@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Dhinesh (cool585)",
+                        "oem": "Google",
+                        "device": "Pixel 3",
+                        "filename": "crDroidAndroid-14.0-20240107-blueline-v10.0.zip",
+                        "download": "https://sourceforge.net/projects/cool585/files/blueline/testbuild/crDroidAndroid-14.0-20240107-blueline-v10.0.zip/download",
+                        "timestamp": 1704573082,
+                        "md5": "5508e342fe9bc1344faeebcc382e9930",
+                        "sha256": "10ad3e5de158f6883785844b1cf75e5c787e6417493a57b97c9671cc231f4e8d",
+                        "size": 1627382411,
+                        "version": "10.0",
+                        "buildtype": "Monthly",
+                        "forum": "https://forum.xda-developers.com/t/4539853",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://sourceforge.net/projects/cool585/files/blueline/crdroid/9.x/recovery",
+                        "paypal": "https://paypal.me/cool585",
+                        "telegram": "https://t.me/dxt_official",
+                        "dt": "https://github.com/cool585/android_device_google_crosshatch",
+                        "common-dt": "",
+                        "kernel": "https://github.com/cool585/android_kernel_google_bluecross"
+                }
+        ]
+}

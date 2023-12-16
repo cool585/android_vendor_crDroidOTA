@@ -1,0 +1,17 @@
+
+
+##update-16/12-23##
+
+changelog:
+
+source:
+       https://crdroid.net/blog/2023-12-12-crDroid-9.12-released
+
+device side 👍🏼
+
+updated kernel to cybertron-v3
+rebase kernel
+dropped boost for kernel
+redo scheduler changes
+update energy model for bluecross
+will see huge battery improvements
