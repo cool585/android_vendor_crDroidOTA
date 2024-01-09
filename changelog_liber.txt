@@ -1,0 +1,13 @@
+##update-09-01-24##
+
+changelog:
+
+source:
+initial a14
+
+device side 👍🏼
+
+updated kernel to cybertron-v1-ksu
+
+
+---this my personal build only for some people----

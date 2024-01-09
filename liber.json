@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Dhinesh (cool585)",
+                        "oem": "Motorola",
+                        "device": "Moto Onefusion plus",
+                        "filename": "crDroidAndroid-14.0-20240108-liber-v10.0.zip",
+                        "download": "",
+                        "timestamp": 1704726423,
+                        "md5": "1bc974a0af7f3a8463396fdf4b240e79",
+                        "sha256": "53c1f26f6b684d93252642d702a17f732bc63b592047ed392f44175066056eb1",
+                        "size": 1338191456,
+                        "version": "10.0",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/cool585",
+                        "telegram": "https://t.me/dxt_official",
+                        "dt": "https://github.com/cool585/android_device_motorola_liber",
+                        "common-dt": "https://github.com/cool585/android_device_motorola_sm6150-common",
+                        "kernel": "https://github.com/cool585/android_kernel_motorola_sm6150"
+                }
+        ]
+}
