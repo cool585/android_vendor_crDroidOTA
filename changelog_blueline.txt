@@ -1,11 +1,16 @@
 
-##update-7-1-24##
+##update-14-1-24##
 
-changelog:
+chagelog:
 
-source:
-initial a14
+source :-
+*https://crdroid.net/blog/2024-01-11-crDroid-10.1-released
 
-device side 👍🏼
-
-updated kernel to cybertron-v4
+device :-
+* with new cybertron kernel v4
+* with new scheduler changes
+* removed more debugs
+* freeup some wavelocks
+* improved performance
+* active drain and idle drain improved lot..
+* added new lowmemory stuffs which improve ram management
