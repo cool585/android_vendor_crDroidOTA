@@ -1,13 +1,8 @@
-##update-09-01-24##
+##update-14-01-24##
 
 changelog:
 
 source:
-initial a14
-
-device side 👍🏼
-
-updated kernel to cybertron-v1-ksu
-
+https://crdroid.net/blog/2024-01-11-crDroid-10.1-released
 
 ---this my personal build only for some people----
