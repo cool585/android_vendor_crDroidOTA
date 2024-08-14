@@ -1,8 +1,13 @@
-##update-14-01-24##
+##update-15-08-24##
 
 changelog:
 
 source:
-https://crdroid.net/blog/2024-01-11-crDroid-10.1-released
+https://crdroid.net/blog/2024-08-11-crDroid-10.7-is-now-ready
 
----this my personal build only for some people----
+device:
+
+* intial gapps build
+* cybertron-v6 kernel
+* Use common libqti-perfd-client and power-libperfmgr
+* enable some crdroid overlays
