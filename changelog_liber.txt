@@ -10,4 +10,6 @@ device:
 * intial gapps build
 * cybertron-v6 kernel
 * Use common libqti-perfd-client and power-libperfmgr
+* improved ram management
+* added some headers collection
 * enable some crdroid overlays
