@@ -1,4 +1,4 @@
-##update-15-08-24##
+##update-23-08-24##
 
 changelog:
 
@@ -7,9 +7,6 @@ https://crdroid.net/blog/2024-08-11-crDroid-10.7-is-now-ready
 
 device:
 
-* intial gapps build
-* cybertron-v6 kernel
-* Use common libqti-perfd-client and power-libperfmgr
-* improved ram management
-* added some headers collection
-* enable some crdroid overlays
+* fixed playintegrity
+* added moto action with customised key support
+* synced with latest source changes 
