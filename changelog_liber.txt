@@ -1,12 +1,14 @@
-##update-23-08-24##
+##update-10-09-24##
 
 changelog:
 
 source:
-https://crdroid.net/blog/2024-08-11-crDroid-10.7-is-now-ready
+https://crdroid.net/blog/2024-09-09-crDroid-10.8-is-now-available
 
 device:
 
-* fixed playintegrity
-* added moto action with customised key support
-* synced with latest source changes 
+fixed playintegrity
+with new cybertron-v7 kernel
+improved active drain
+fixed some log spam and bugs
+synced with latest source changes
