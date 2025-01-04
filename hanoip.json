@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Dhinesh (cool585)",
+                        "oem": "Motorola",
+                        "device": "Moto G40/60 Fusion",
+                        "filename": "crDroidAndroid-15.0-20250104-hanoip-v11.0.zip",
+                        "download": "https://github.com/cool585/android_vendor_crDroidOTA/releases/download/cr-10.8.1/crDroidAndroid-15.0-20250104-hanoip-v11.0.zip",
+                        "timestamp": 1735993203,
+                        "md5": "f70b70161fa867b6fcb23cb7244b2a2a",
+                        "sha256": "945b68fed51fb8394989333a5d49eb22c4bf2921bf717cff623e7538cdf1bc3a",
+                        "size": 1735993203,
+                        "version": "11.0",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://dl.twrp.me/hanoip/",
+                        "paypal": "https://paypal.me/cool585",
+                        "telegram": "https://t.me/dxt_official",
+                        "dt": "https://github.com/cool585/android_device_motorola_hanoip",
+                        "common-dt": "",
+                        "kernel": "https://github.com/cool585/android_kernel_motorola_sm6150"
+                }
+        ]
+}
