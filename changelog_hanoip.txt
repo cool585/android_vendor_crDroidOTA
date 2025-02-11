@@ -5,23 +5,14 @@ Device maintainer: DhineshCool (cool585)
 
 Highlights & Device Specific Changes:
 =====================================
-4th January, 2025
+11th February, 2025
 ===================
 ROM changes:
-• Initial UN-Official stable build
 • Added custom header packs
+• added low memory optimaztion
+• updated dolby
 
 Device changes:
-   - new cybertron v10  ||  KSU-NEXT (https://sourceforge.net/projects/cool585/files/hanoip/crdroid/cr11/boot-ksu.img/download)
-   - improve ram management 
-   - improved battery life 
-   - improved performance
-   - added dolby 
-   - 90hz build
-   - added 24bit audio support 
-   - added charging control support 
-   - added los custom key mapper(button>search button)
-   - lot of optimization 
-   - thnx to anoos , radhe bhai ,vishal ,pranaya and crdroid team for their work 
-   - ksu is addon , ksu manager  (https://github.com/rifsxd/KernelSU-Next/releases)
-   - and more stuffs 
+   - ksu removed from default 
+   - ksu is addon now , ksu manager  (https://github.com/rifsxd/KernelSU-Next/releases)
+   - added susfs support (https://sourceforge.net/projects/cool585/files/hanoip/crdroid/cr11/11.2/cr11.2-ksu-susfs.img/download)
