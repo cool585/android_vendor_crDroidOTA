@@ -7,12 +7,18 @@ Highlights & Device Specific Changes:
 =====================================
 11th February, 2025
 ===================
+=====================================
+11th March, 2025
+===================
 ROM changes:
-• Added custom header packs
-• added low memory optimaztion
-• updated dolby
+• synced source 
 
 Device changes:
-   - ksu removed from default 
-   - ksu is addon now , ksu manager  (https://github.com/rifsxd/KernelSU-Next/releases)
-   - added susfs support (https://sourceforge.net/projects/cool585/files/hanoip/crdroid/cr11/11.2/cr11.2-ksu-susfs.img/download)
+ • cybertron-v12 kernel
+ • add anxiety i/o sched as default
+ • added lz4kd from huawei
+ • zram improvements
+ • drop oplus mm hacks
+ • set lz4 as default compression method
+ • enable lrng
+ • upstream HID 

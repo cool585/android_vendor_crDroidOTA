@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Dhinesh (cool585)",
-                        "oem": "Motorola",
-                        "device": "Moto G40/60 Fusion",
-                        "filename": "crDroidAndroid-15.0-20250211-hanoip-v11.2.zip",
-                        "download": "",
-                        "timestamp": 1739286711,
-                        "md5": "460ecd2c94f744a4fd097039b8355ce9",
-           	        "sha256": "0c72b9c80cc7288dd5b53bd31f0bd2feeee225c1b9bdf0a1024fedb2df0ac961",
-           		"size": 1720937345,
-           		"version": "11.2",
-                        "buildtype": "Monthly",
-                        "forum": "",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "https://dl.twrp.me/hanoip/",
-                        "paypal": "https://paypal.me/cool585",
-                        "telegram": "https://t.me/dxt_official",
-                        "dt": "https://github.com/cool585/android_device_motorola_hanoip",
-                        "common-dt": "",
-                        "kernel": "https://github.com/cool585/android_kernel_motorola_sm6150"
-                }
-        ]
+    "response": [
+        {
+            "maintainer": "Dhinesh (cool585)",
+            "oem": "Motorola",
+            "device": "Moto G40/60 Fusion",
+            "filename": "crDroidAndroid-15.0-20250311-hanoip-v11.2.zip",
+            "download": "https://github.com/cool585/android_vendor_crDroidOTA/releases/download/cr-11.2-1/crDroidAndroid-15.0-20250311-hanoip-v11.2.zip",
+            "timestamp": 1741705133,
+            "md5": "e9c337a5e056477b63cda829ef541ffd",
+            "sha256": "6886ad9d8c6236ea0a3abcbec329d87ef13e50bb3c8c200a344ad1e7c19b89f0",
+            "size": 1717052246,
+            "version": "11.2",
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://dl.twrp.me/hanoip/",
+            "paypal": "https://paypal.me/cool585",
+            "telegram": "https://t.me/dxt_official",
+            "dt": "https://github.com/cool585/android_device_motorola_hanoip",
+            "common-dt": "",
+            "kernel": "https://github.com/cool585/android_kernel_motorola_sm6150"
+        }
+    ]
 }
