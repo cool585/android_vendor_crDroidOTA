@@ -5,20 +5,19 @@ Device maintainer: DhineshCool (cool585)
 
 Highlights & Device Specific Changes:
 =====================================
-11th February, 2025
-===================
-=====================================
-11th March, 2025
+14th April, 2025
 ===================
 ROM changes:
 • synced source 
 
 Device changes:
- • cybertron-v12 kernel
- • add anxiety i/o sched as default
- • added lz4kd from huawei
- • zram improvements
- • drop oplus mm hacks
- • set lz4 as default compression method
- • enable lrng
- • upstream HID 
+
+-merged openela 4.14.356
+-fix broken bpf changes
+-nuked lot of debugs
+-improvements in kgsl
+-improvements on gpu
+-lot of changes in scheduler
+-introduce simple gpu algorithm and sbalancer and lot
+
+Check kernel source (https://github.com/PixelBuilds-Devices/android_kernel_motorola_sm6150/commits/infinity)
