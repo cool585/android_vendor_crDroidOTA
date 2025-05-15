@@ -5,19 +5,21 @@ Device maintainer: DhineshCool (cool585)
 
 Highlights & Device Specific Changes:
 =====================================
-14th April, 2025
+15th May, 2025
 ===================
 ROM changes:
 • synced source 
 
 Device changes:
 
--merged openela 4.14.356
--fix broken bpf changes
--nuked lot of debugs
--improvements in kgsl
--improvements on gpu
--lot of changes in scheduler
--introduce simple gpu algorithm and sbalancer and lot
+-moved to new codec2
+-new thermal blobs from clo
+-import location blobs from moto sm7250 tree 
+-updated and clean up blobs for qpr2
+-cybertron v15
+-rework in sbalancer
+-improved lz4 compression
+-fixed battery drain when playing media content
+-clean up scheduler stuff
 
 Check kernel source (https://github.com/PixelBuilds-Devices/android_kernel_motorola_sm6150/commits/infinity)
