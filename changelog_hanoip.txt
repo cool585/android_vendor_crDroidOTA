@@ -5,13 +5,17 @@ Device maintainer: DhineshCool (cool585)
 
 Highlights & Device Specific Changes:
 =====================================
-15th May, 2025
+16th May, 2025
 ===================
 ROM changes:
 • synced source 
 
 Device changes:
+-HOT FIX :
+  fixed fpc fingerprint
 
+15th May, 2025
+===================
 -moved to new codec2
 -new thermal blobs from clo
 -import location blobs from moto sm7250 tree 
